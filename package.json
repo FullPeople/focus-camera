@@ -8,15 +8,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@owlbear-rodeo/sdk": "^3.1.0",
-    "react": "^19.2.5",
-    "react-dom": "^19.2.5"
+    "@owlbear-rodeo/sdk": "^3.1.0"
   },
   "devDependencies": {
-    "@types/react": "^19.2.14",
-    "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-basic-ssl": "^2.3.0",
-    "@vitejs/plugin-react": "^6.0.1",
     "typescript": "^6.0.2",
     "vite": "^8.0.8"
   }

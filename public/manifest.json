@@ -6,11 +6,5 @@
   "homepage_url": "https://github.com/FullPeople/focus-camera",
   "description": "右键菜单一键聚焦所有玩家的摄像头到指定位置，保持与DM一致的缩放",
   "icon": "https://fullpeople.github.io/focus-camera/icon.svg",
-  "action": {
-    "title": "全员聚焦",
-    "icon": "https://fullpeople.github.io/focus-camera/icon.svg",
-    "popover": "https://fullpeople.github.io/focus-camera/index.html",
-    "height": 50,
-    "width": 200
-  }
+  "background_url": "https://fullpeople.github.io/focus-camera/background.html"
 }
