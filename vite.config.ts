@@ -4,7 +4,7 @@ import { resolve } from "path";
 
 export default defineConfig(({ command }) => ({
   plugins: command === "serve" ? [basicSsl()] : [],
-  base: "/focus-camera/",
+  base: "/focus/",
   server: {
     cors: { origin: "*" },
     headers: { "Access-Control-Allow-Origin": "*" },
