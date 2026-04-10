@@ -10,7 +10,7 @@
     "title": "全员聚焦",
     "icon": "https://fullpeople.github.io/focus-camera/icon.svg",
     "popover": "https://fullpeople.github.io/focus-camera/index.html",
-    "height": 80,
-    "width": 250
+    "height": 50,
+    "width": 200
   }
 }
