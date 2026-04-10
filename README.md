@@ -7,7 +7,7 @@
 将以下链接粘贴到 **Owlbear Rodeo → 设置 → 扩展 → 添加自定义扩展**：
 
 ```
-https://fullpeople.github.io/focus-camera/manifest.json
+https://obr.dnd.center/focus/manifest.json
 ```
 
 ## 功能
