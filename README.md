@@ -40,3 +40,13 @@ npm run build   # 构建生产版本
 - ❌ **不允许**：任何商业用途（售卖、盈利产品、收费部署等）
 - ✅ 个人 / TRPG 团队 / 爱好者 / 学校 / 公益使用 **均允许**
 - ✅ 非商用衍生品可以闭源、可重新分发
+
+---
+
+## 💖 支持作者
+
+如果这些插件对你的跑团有帮助，欢迎来爱发电支持一下作者 —— 用于服务器续费和新插件开发 ♥
+
+[![前往爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-FullPeople-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)](https://ifdian.net/a/fullpeople)
+
+> 反馈或建议：[1763086701@qq.com](mailto:1763086701@qq.com)
